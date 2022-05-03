@@ -162,6 +162,7 @@ var events = [
         <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
         </p>
+        <p>thjkrdghsh</p>
         `
     }
  ]
