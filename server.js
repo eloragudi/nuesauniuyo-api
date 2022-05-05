@@ -34,7 +34,7 @@ var events = [
     {
         "id": 5432,
         "title": "Elections",
-        "image": "name",
+        "image": "week",
         "description":"Elections; a time for students of this faculty to chose worthy executives to lead the uniuyo chapter of NUESA. Held every second semester, the next one is scheduled to hold this coming semester",
         "note": `
         <p>
