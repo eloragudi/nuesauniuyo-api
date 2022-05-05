@@ -11,164 +11,101 @@ var events = [
         "id": 5431,
         "title": "Engineering week",
         "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
+        "description":"Engineering week; a fun-filled week hosted by the faculty.",
         "note": `
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        Held consecutively for the past 3 years, the next one is scheduled to hold during the first semester of the coming session.
+        There are many event held during this week.Always two weeks to the exams of the first semester, it is a time for students of the faculty to have fun and learn outside the school curriculum.
+        <p>
+        The week usally kicks off with a football betwwen the levels of different department of the faculty. it is played through the week alongside other activities of the week.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+            THE next activity is the NUESA seminar. Prominent figures from NSE come to lecture the students.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+            TO  spice up things intellectually, chess and quiz competitions are held too with cash prices to be won. sometimes excursions are added.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+            Finally the crowing event of the week, the Dinner and award night. Graced by professors and students alike, its a night to remember. Awards are given out and taken by outstanding members of the faculty.
+        
         </p>
         `
     },
     {
         "id": 5432,
-        "title": "Engineering week",
+        "title": "Elections",
         "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
+        "description":"Elections; a time for students of this faculty to chose worthy executives to lead the uniuyo chapter of NUESA. Held every second semester, the next one is scheduled to hold this coming semester",
         "note": `
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+            THE first part of this event is the formulation of the eleco board. In charge of coordinaating a free and fair election, they hold the assiociation till the next excutetives are electec.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+         The second is the sales of forms by the eleco board to interested aspirants. the qualifications for each position are also declared.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        The third part is the screening of candidates. Candidates who meet the qualifications are given the opportunity to hold manifestos in the general congress meeting ; in which they declare things they hope achieve if elected.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        The fourth is the main elections where students are given the opportunity to vote for worthy leaders.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        THe last is the declarations of elected candidates for each office.
         </p>
         `
     },
     {
         "id": 5433,
-        "title": "Engineering week",
+        "title": "Executetive inaugration",
         "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
+        "description":"After the sucessful election, elected candidates are sworn in on chosen date.",
         "note": `
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        This one-day event marks the beginning of a new regime for the faculty which will be hopeful better than last.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        Held exactly a week after the election, it is a time for students to meet elected excos.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        The president and other executive are sworn-in by taking the oath of office. They promise to do their best.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
+        To end the event, the documents from the last regime is handed over by the acting president(the previous vice-president)to the current president after her farewell speech. THen to mark the beginning of his tenure, the president dissolves the eleco and assumes power. 
+                </p>
+        
         `
     },
     {
         "id": 5434,
-        "title": "Engineering week",
+        "title": "Level representative election and inaugration",
         "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
+        "description":"The LRC just like excutetives are elected and inaugrated just like executives",
         "note": `
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        The LRC are two students representatives chosen from each level of each department to represent all the students of the faculty.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        Just like the excutetives, their tenure lasts for only a year.
         </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
+        
         `
     },
     {
         "id": 5435,
-        "title": "Engineering week",
+        "title": "Congress meeting",
         "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
+        "description":"Congress meeting; a meeting where all students are invited to meet the excos. Though, it should be noted that all meeting involve the general students.",
         "note": `
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        Called by the president, it is an opportunity for students to lay their complain to the president directly. It is also for them to trash any issue of the faculty and find lasitng solutions.
         </p>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
+        The president is expected to call this congress at least every 3months and all those are expected to honor his invitation.
         </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
+        
         `
     },
-    {
-        "id": 5436,
-        "title": "Engineering week",
-        "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
-        "note": `
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        `
-    },
-    {
-        "id": 5437,
-        "title": "Engineering week",
-        "image": "name",
-        "description":"Engineering week memememem emememe memememe memmeme em e ememememe mememe mememe mememme mememe memem emememmem emmeme memmeme mememe meme",
-        "note": `
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, ipsum autem facilis perspiciatis rem, eius hic eveniet quibusdam ipsam, nostrum consequuntur veniam quod doloribus. Eligendi, sapiente? Accusantium velit expedita officia!
-        </p>
-        <p>thjkrdghsh</p>
-        `
-    }
+    
  ]
  let port = process.env.PORT || 8801;
  
