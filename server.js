@@ -10,7 +10,7 @@ var events = [
     {
         "id": 5431,
         "title": "Engineering week",
-        "image": "name",
+        "image": "dinner",
         "description":"Engineering week; a fun-filled week hosted by the faculty.",
         "note": `
         <p>
@@ -57,7 +57,7 @@ var events = [
     {
         "id": 5433,
         "title": "Executetive inaugration",
-        "image": "name",
+        "image": "inauguration1",
         "description":"After the sucessful election, elected candidates are sworn in on chosen date.",
         "note": `
         <p>
@@ -78,7 +78,7 @@ var events = [
     {
         "id": 5434,
         "title": "Level representative election and inaugration",
-        "image": "name",
+        "image": "LRC",
         "description":"The LRC just like excutetives are elected and inaugrated just like executives",
         "note": `
         <p>
@@ -93,7 +93,7 @@ var events = [
     {
         "id": 5435,
         "title": "Congress meeting",
-        "image": "name",
+        "image": "congress",
         "description":"Congress meeting; a meeting where all students are invited to meet the excos. Though, it should be noted that all meeting involve the general students.",
         "note": `
         <p>
