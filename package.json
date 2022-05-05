@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3"
   },
   "scripts": {
@@ -8,7 +9,6 @@
   "name": "nuesauniuyo-api",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eloragudi/nuesauniuyo-api.git"
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/eloragudi/nuesauniuyo-api#readme",
   "description": "",
-
   "engines": {
     "node": "16.14.2"
   }

@@ -1,5 +1,9 @@
 var express = require('express');
 var app = express();
+const cors = require('cors');
+
+app.use(cors());
+// app.use(express.json());
 // var fs = require("fs");
 
 var events = [
