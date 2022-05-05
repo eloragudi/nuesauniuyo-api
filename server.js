@@ -166,8 +166,9 @@ var events = [
         `
     }
  ]
-
- app.get('/events', function (req, res) {
+ let port = process.env.PORT || 8801;
+ 
+ app.get('/', function (req, res) {
     res.json(events);
  })
  app.get('/events/:id', function (req, res) {
@@ -193,8 +194,12 @@ var events = [
 //  })
 
 
-var server = app.listen(8081, function () {
-   var host = server.address().address
-   var port = server.address().port
-   console.log("Example app listening at http://%s:%s", host, port)
-})
+// var server = app.listen(8081, function () {
+//    var host = server.address().address
+//    var port = server.address().port
+//    console.log("Example app listening at http://localhost:${port}`)
+// })
+app.listen(port, () => {
+    console.log(`Example app is listening on port http://localhost:${port}`);
+
+});
